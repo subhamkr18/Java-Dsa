@@ -7,7 +7,7 @@ public class SumofDigits {
         int n=sc.nextInt();
         
         int Sum=0;
-        
+        if(n<0) n = -n;
         while(n!=0){
             Sum += n%10;
             n /= 10;
