@@ -15,6 +15,6 @@ public class CompositeNumber {
         }
         if(n==1)System.out.println("Neither Prime nor Composite");
         else if(flag==false) System.out.println("Composite Number");
-        else(flag==true) System.out.println("Prime Number");
+        else if(flag==true) System.out.println("Prime Number");
     }
 }
