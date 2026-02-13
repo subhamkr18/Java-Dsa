@@ -11,8 +11,8 @@ public class StarRec_Input {
 
         for (int i=1; i<=row; i++){
             for(int j=1; j<=col;j++){
-                System.out.print("* ");
-            }System.out.println();
+                System.out.print("* "); // printing * controled by j
+            }System.out.println(); // blank line controled by i
         }
     }
 }
