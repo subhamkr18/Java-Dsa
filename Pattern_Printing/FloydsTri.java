@@ -11,14 +11,12 @@ public class FloydsTri {
         Scanner sc =new Scanner(System.in);
         System.out.print("ENter n: ");
         int n =sc.nextInt();
-        // int a=1;
+        int a=1;
 
         for(int i=1;i<=n;i++){
-            int a=0;
             for(int j=1;j<=i;j++){
-                System.out.print((a+i)+" ");
+                System.out.print((a)+" ");
                 a++;
-                
             }
             System.out.println();
         }
