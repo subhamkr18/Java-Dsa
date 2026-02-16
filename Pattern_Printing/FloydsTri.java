@@ -1,0 +1,26 @@
+package Pattern_Printing;
+import java.util.Scanner;
+/*
+1
+2 3
+4 5 6
+7 8 9 10
+*/
+public class FloydsTri {
+    public static void main(String[] args) {
+        Scanner sc =new Scanner(System.in);
+        System.out.print("ENter n: ");
+        int n =sc.nextInt();
+        // int a=1;
+
+        for(int i=1;i<=n;i++){
+            int a=0;
+            for(int j=1;j<=i;j++){
+                System.out.print((a+i)+" ");
+                a++;
+                
+            }
+            System.out.println();
+        }
+    }
+}
