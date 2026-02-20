@@ -17,7 +17,12 @@ public class Permutation_Combination {
 
         //Using Method
         int ncr = fact(n)/(fact(r)*fact(n-r));
-        System.out.print("ncr: "+ncr);
+        System.out.println("ncr: "+ncr);
+
+        int npr = fact(n)/fact(n-r);
+        System.out.print("npr: "+npr);
+
+
         /* 
         //Calculating Factorial
         int nFact=1;
