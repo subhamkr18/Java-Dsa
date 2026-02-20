@@ -12,7 +12,7 @@ public class BuiltIn {
         System.out.println(Math.floor(-6.8));
         // Math.min- gives min of two nums
         System.out.println(Math.min(10,6));
-        //Maath.max- gives max of two nums
+        //Maath.max- gives max of two numbers
         System.out.println(Math.max(5.5,5));
     }
 }
