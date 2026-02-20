@@ -14,5 +14,7 @@ public class BuiltIn {
         System.out.println(Math.min(10,6));
         //Maath.max- gives max of two numbers
         System.out.println(Math.max(5.5,5));
+        //Math.pow- give power od a num
+        System.out.println(Math.pow(-3,2));
     }
 }
