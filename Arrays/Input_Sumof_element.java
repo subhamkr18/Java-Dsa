@@ -12,7 +12,7 @@ public class Input_Sumof_element {
 
         // Array Input
         for(int i=0; i<n;i++){
-            System.out.println("Enter " +i+ " elements: ");
+            System.out.print("Enter " +i+ " elements: ");
             arr[i] = sc.nextInt();
         }
 
