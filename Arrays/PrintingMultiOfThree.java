@@ -16,7 +16,9 @@ public class PrintingMultiOfThree {
         //Checking and pring multiple of three
         System.out.print("Elements which are divisival by 3 are: ");
         for(int i=0;i<n;i++){
-            if(arr[i]%3==0) System.out.print(arr[i]+" ");
+            if(arr[i]%3==0){
+                     System.out.print(arr[i]+" ");
+            }
         }
         
 
