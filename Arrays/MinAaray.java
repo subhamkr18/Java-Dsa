@@ -14,7 +14,7 @@ public class MinAaray {
         for(int i=0; i<n;i++){
             System.out.print("Enter " +i+ " elements: ");
             arr[i] = sc.nextInt();
-        }
+        }Max=arr[0]// assuming arr[0] is Min element
 
         // Finding Min elements of an array
         for(int i=0; i<n;i++){
