@@ -15,10 +15,11 @@ public class Max{
         for(int i=0; i<n;i++){
             System.out.print("Enter " +i+ " elements: ");
             arr[i] = sc.nextInt();
-        }
+        }Max=arr[0];// assuming 1 array element is max
 
         // Find Maximum element of an array
         for(int i=0; i<n;i++){
+            
             if(arr[i]>Max){
                 Max =arr[i];
             }
