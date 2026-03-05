@@ -18,6 +18,7 @@ public class MinAaray {
 
         // Finding Min elements of an array
         for(int i=0; i<n;i++){
+            //checking if element is min
             if(arr[i]<Min){
                 Min=arr[i];
             }
