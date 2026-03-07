@@ -7,7 +7,7 @@ public class Input_Sumof_element {
         int n= sc.nextInt();
         int[] arr =new int[n];
 
-        int sum=0;
+        int sum=0;//initializaingg sumas 0
         
 
         // Array Input
