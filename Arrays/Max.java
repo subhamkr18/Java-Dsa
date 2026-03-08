@@ -20,7 +20,7 @@ public class Max{
         // Find Maximum element of an array
         for(int i=0; i<n;i++){
             
-            if(arr[i]>Max){
+            if(arr[i]>Max){ // condition to compare Max with each element
                 Max =arr[i];
             }
         }
