@@ -8,6 +8,7 @@ public class Month {
         String monthName;
 
         switch (monthNumber) {
+            // cases to check month
             case 1:
                 monthName = "January";
                 break;
