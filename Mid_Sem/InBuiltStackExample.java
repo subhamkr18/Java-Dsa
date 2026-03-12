@@ -1,4 +1,4 @@
-package stack_Queue;
+package Mid_Sem;
 
 import java.util.Stack;
 public class InBuiltStackExample{
