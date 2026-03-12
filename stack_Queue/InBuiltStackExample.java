@@ -1,7 +1,7 @@
 package stack_Queue;
 
 import java.util.Stack;
-public class InBuiltExample{
+public class InBuiltStackExample{
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
         stack.push(34);
