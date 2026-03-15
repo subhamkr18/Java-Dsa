@@ -8,7 +8,7 @@ public class MethodOverloading {
         g.greetings("Subham",5);
     }
 }
-
+//method overloading 
 class Greet{
     void greetings(){
         System.out.println("Hii, Good Mororning");
