@@ -11,6 +11,6 @@ public class Abs_Value{
             System.out.print(n);
         }
         // if(n<0) n= -n;
-        // System.out.print(n);
+        // System.out.print(n);  // it will also work as upper code
     }
 }
