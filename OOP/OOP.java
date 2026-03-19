@@ -25,6 +25,7 @@ class Student{
 
 public class OOP {
     public static void main(String[] args) {
+        //creating object 
         Pen pen1 = new Pen();
         pen1.colour = "Blue";
         pen1.type= "Gel";
