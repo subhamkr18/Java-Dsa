@@ -8,6 +8,7 @@ public class SumofDigits {
         
         int Sum=0;
         if(n<0) n = -n;
+        // accessing each digit and adding them
         while(n!=0){
             Sum += n%10;
             n /= 10;
