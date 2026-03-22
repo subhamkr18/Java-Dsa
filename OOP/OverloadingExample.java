@@ -23,3 +23,4 @@ public class OverloadingExample {
 		obj1.add(2.5, 5.5);
 	}
 }
+// making method with same names but different parameter - method overloading
