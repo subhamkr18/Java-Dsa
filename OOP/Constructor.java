@@ -12,7 +12,7 @@ public class Constructor {
 class Student{
     int a;
     int b;
-
+// making constructor with same name and different parameter- constructor overloading
     public Student(int ID){
         this.a=ID;
         b=20;
