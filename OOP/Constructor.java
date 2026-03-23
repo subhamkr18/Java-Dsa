@@ -8,7 +8,7 @@ public class Constructor {
        s2.print();
     }
 }
-
+// example of constructor overloading
 class Student{
     int a;
     int b;
