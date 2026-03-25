@@ -27,3 +27,5 @@ public class PolymorphismExample {
         a.sound();
     }
 }
+// method overloading causes - compilr-time polymorphism
+// method overriding causes - run time polymorphism
