@@ -1,3 +1,4 @@
+//checking int value
 import java.util.Scanner;
 public class IsInt {
     public static void main(String[] args) {
